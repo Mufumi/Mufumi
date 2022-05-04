@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Here's a few things you can learn about me 😄: 
+### Here's a few things you can learn about me 😄: 
 
 - 🔭 I’m currently working on improving my Data Science skills portfolio.
 - 🌱 I’m currently learning Deep Learning Terminology
