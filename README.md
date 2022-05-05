@@ -9,7 +9,7 @@
 Alternatively I'm also interested in:
 
 - Solving problems for Africa :earth_africa:, using Data :floppy_disk: and Analytics :abacus:
-- Formula 1 :racing_car:, football :soccer:, basketball :basketball: and more the technical analysis of these sports
+- Formula 1 :racing_car:, football :soccer:, basketball :basketball: and more the technical analysis of these sports :nerd_face:
 - Working in high-performance teams :mechanical_arm:
 - Economics :chart:
 
