@@ -16,8 +16,10 @@ Alternatively I'm also interested in:
 <!--
 **Mufumi/Mufumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#transport-ground) shows all the emojis you can use for dazzling the README
 
+Here are some ideas to get you started:
+ 
  
 - 👯 I’m looking to collaborate on ...
 
