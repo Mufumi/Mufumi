@@ -1,4 +1,6 @@
-### Hi there 👋 Welcome to Mufumi's Github profile
+### Hi there! 👋 
+
+### Welcome to Mufumi's Github profile [](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)
 
 ### Here's a few things you can learn about me 😄: 
 
