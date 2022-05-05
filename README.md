@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to Mufumi's Github profile
 
 ### Here's a few things you can learn about me 😄: 
 
