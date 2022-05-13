@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-### Welcome to Mufumi's <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git"> profile 
+### Welcome to Mufumi's <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git"> profile 
 
 ### Here's a few things you can learn about me 😄: 
 
