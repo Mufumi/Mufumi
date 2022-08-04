@@ -7,7 +7,6 @@
 - I'm a Data Science enthusiast from South Africa :south_africa:
 - 🔭 I’m currently working on improving my Data Science skills portfolio.
 - 🌱 My current focus is learning about Deep Learning terminology
-- 🤔 I’m looking for help with finding open source projects where I can assist with the Machine Learning (ML) aspect of things
 
 ### Alternatively I'm also interested in:
 
