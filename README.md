@@ -4,9 +4,9 @@
 
 ### Here's a few things you can learn about me 😄: 
 
-- I'm a Data Science enthusiast from South Africa :south_africa:
-- 🔭 I’m currently working on improving my Data Science skills portfolio.
-- 🌱 My current focus is learning about Deep Learning terminology
+- :computer: I'm a cloud solutions architect from South Africa :south_africa:
+- 🔭 Currently, a lot of my time is spent working on improving my cloud architecture skills portfolio.
+- 🌱 My current focus is learning about microservice and serverless based architecture
 
 ### Alternatively I'm also interested in:
 
@@ -14,6 +14,7 @@
 - Formula 1 :racing_car:, football :soccer:, basketball :basketball: and more the technical analysis of these sports :nerd_face:
 - Working in high-performance teams :mechanical_arm:
 - Economics :chart:
+- Art :paintbrush:
 
 <!--
 **Mufumi/Mufumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
